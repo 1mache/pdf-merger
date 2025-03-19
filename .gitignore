@@ -1,3 +1,7 @@
+# no need to track files that I use test this on 
+*.pdf
+
+# ===================================Default python stuff =========================================
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
